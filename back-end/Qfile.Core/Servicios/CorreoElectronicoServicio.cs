@@ -10,7 +10,7 @@ namespace Qfile.Core.Servicios
     public class CorreoElectronicoServicio : ICorreoElectronicoServicio
     {
         private const string _de = "ealexander.uo@gmail.com";
-        private const string _key = "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";
+        private const string _key = "";
 
         private SendGridClient _cliente;
 
