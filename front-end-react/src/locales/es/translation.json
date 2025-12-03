@@ -1,0 +1,52 @@
+{
+    "navbar": {
+        "dashboard": "Tablero",        
+        "files": "Expedientes",
+        "filesExternal": "Expedientes Externos",        
+        "settings": "Configuración",
+        "workflows": "Procesos",
+        "signout": "Cerrar Sesión"
+    },
+
+    "workflowsPage": {
+        "title": "Procesos",
+        "search" : "Buscar",
+        "cards" : "Tarjetas",
+        "list": "Listado",
+        "workflows": "Procesos"
+        
+    },
+
+    "wokFlowList":{
+        "name": "Nombre",
+        "type" : "Tipo de Proceso",
+        "ua" : "Unidad Administrativa",
+        "status" : "Estado",
+        "actions" : "Acciones",
+        "addWorkflow": "Agregar Proceso"
+    },
+
+    "wokFlowType":{
+        "standard": "Estándar",
+        "custom" : "Personalizado"
+    },
+
+    "workFlowAddEditDialog":{
+        "title": "Administración de Procesos",
+        "subtitle": "Agregar o Editar Procesos",
+        "title2": "Información General del Proceso",
+        "close": "Cerrar",
+        "nameWorkflow": "Nombre",
+        "description": "Descripción",
+        "type": "Tipo de Proceso",
+        "add" : "Agregar Proceso",
+        "edit" : "Editar Proceso",
+        "active":"Activo"
+    },
+
+    "errorMessages": {
+        "invalidEmail": "Correo electrónico inválido",
+        "requieredField": "Campo requerido",
+        "invalidDate": "Fecha inválida"
+    }
+}

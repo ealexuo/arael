@@ -1,0 +1,51 @@
+{
+    "navbar": {
+        "dashboard": "Dashboard",
+        "files": "Files",
+        "settings": "Settings",
+        "workflows": "Workflows",
+        "signout": "Sign Out"
+    },
+
+    "workflowsPage": {
+        "title": "Workflows",
+        "search" : "search",
+        "cards" : "Cards",
+        "list": "List",
+        "workflows": "Wokflow",
+        "signout": "Sign Out"        
+    },
+
+    "wokFlowList":{
+        "name": "Name",
+        "type" : "Workflow Type",
+        "ua" : "Organizational Unit",
+        "status" : "Status",
+        "actions" : "Actions",
+        "addWorkflow": "Add Workflow"
+    },
+
+    "wokFlowType":{
+        "standard": "Standard",
+        "custom" : "Custom"
+    },
+
+    "workFlowAddEditDialog":{
+        "title": "Workflows Administration",
+        "subtitle": "Add or Edit Workflows",
+        "title2": "General Information of Workflow",
+        "close": "Close",
+        "nameWorkflow": "Name",
+        "description": "Description",
+        "type": "Workflow Type",
+        "add" : "Add Workflow",
+        "edit" : "Edit Workflow",
+        "active":"Active"
+    },
+
+    "errorMessages": {
+        "invalidEmail": "Invalid email",
+        "requieredField": "Requiered field",
+        "invalidDate": "Invalid date"
+    }
+}

@@ -1,0 +1,23 @@
+export type Expediente = {
+    idExpediente: number;
+    idProceso: number;
+    descripcion: string;
+    nombreOrigen: string;
+    emisor: string;
+    fechaAsignacion?: Date;
+    fechaTraslado?: Date;
+    nombreProceso: string;
+    idFaseActual: number;
+    idTipoFase: number;
+    faseActualProceso: string;
+    cantidadTotal: number;
+    colorProceso: string;
+    activoProceso: boolean;
+    porcentajeTiempoTranscurrido: number;
+    porcentajeTiempoInterno: number;
+    idTipoOperacion: number;
+    ultimaIdTipoOperacion: number;
+    idUsuarioConsulta: number;
+    idUsuarioRegistro: number;
+    idUsuarioAsignado: number;
+};
